@@ -1,8 +1,6 @@
 import React from "react";
 import "./styles.css";
 
-const Board = () => {
+export default function Board() {
   return <div>Is it working yet</div>;
-};
-
-export default Board();
+}

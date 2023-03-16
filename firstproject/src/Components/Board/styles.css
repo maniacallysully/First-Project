@@ -1,7 +1,3 @@
-.font {
-  color: aquamarine;
-}
-
-.body {
-  background-color: #333;
+body {
+  background-color: rgb(153, 0, 255);
 }
